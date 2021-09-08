@@ -4,8 +4,8 @@
 #define ECHO_PIN A15
 
 //motors
-#define EN_A A0
-#define EN_B A1
+#define EN_A A13
+#define EN_B A14
 #define IN1_FRONT 46
 #define IN1_BACK 47
 #define IN2_BACK 48 

@@ -15,11 +15,6 @@ void setupServos()
   arm_right.attach(45); //works weird/does not work, tries to work tho'
   arm_left.attach(4);
   neck.attach(3);
-//  releaseServo(neck, 90, 0);
-//  moveServo(arm_right, 0, 90);
-//  releaseServo(arm_left, 90, 0);
-//  releaseServo(shoulder_right, 90, 0);
-//  releaseServo(shoulder_left, 90, 0);
 }
 
 void setup()
